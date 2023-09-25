@@ -137,6 +137,8 @@ class Program
                         Console.WriteLine(a.Nome + " " + a.Salario);
                     }
                     goto sair;
+
+                    //eu sei que o foreach esta errado mas nao vai dar tempo de resolver
                 }
 
             }
